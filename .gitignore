@@ -1,5 +1,5 @@
-bin/
-release/
+bin/*
+release/*
 
 # Compiled class file
 *.class
